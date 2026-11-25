@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**noenarcisse/noenarcisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA Engineer currently enrolled in a ISTQB QA training.<br />
+Currently working on some testing project: [invoicika](https://github.com/noenarcisse/invoicika)
 
-Here are some ideas to get you started:
+Moslty working with:
+- .NET / C#
+- Go
+- TS
+- Python
+- SQL
+- Nim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open-source work:<br />
+https://codeberg.org/noenarcisse
